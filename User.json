@@ -1,0 +1,25 @@
+[
+    { "firstName": "Apoorva", 
+      "lastName": "Joshi", 
+      "email": "apoorva.joshi.cimet@yopmail.com", 
+      "phoneNumber": "04222444427"
+    },
+
+    { "firstName": "Apoorva", 
+      "lastName": "Joshi", 
+      "email": "apoorva.joshi.cimet@yopmail.com", 
+      "phoneNumber": "04223127121"
+    },
+
+    { "firstName": "Apoorva", 
+      "lastName": "Joshi", 
+      "email": "apoorva.joshi.cimet@yopmail.com", 
+      "phoneNumber": "04223127131"
+    },
+
+    { "firstName": "Apoorva", 
+      "lastName": "Joshi", 
+      "email": "apoorva.joshi.cimet@yopmail.com", 
+      "phoneNumber": "04223127141"
+    }
+]
